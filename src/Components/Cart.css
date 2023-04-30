@@ -1,0 +1,23 @@
+.pic{
+    margin-left: 450px;
+}
+.cart{
+    margin-top: 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 30px;
+    border-radius: 50px;
+    box-shadow: 0 0 10px black;
+}
+.remove{
+    margin-left: 595px;
+    cursor: pointer;
+    background-color: burlywood;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+}
